@@ -1,9 +1,9 @@
 
 const Discord = require("discord.js");
-const myid = ['id xot'] ////////////////////prefix wara 
+const myid = ['647507927074340865'] ////////////////////prefix wara 
 const jano = new Discord.Client();
-const jano2 = new Discord.Client();
-const jano3 = new Discord.Client();
+const jano2 = new ;
+const jano3 = new Discord.Client(647507927074340865);
 const jano4 = new Discord.Client();
 const jano5 = new Discord.Client();
 const jano6 = new Discord.Client();
@@ -7392,7 +7392,7 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
+jano.login("ODQxODYxMzg0MzgzNjI3Mjk0.YTaSXw.NeUEl_cVO_5eW-rtp6BhTi_dH_Q");
 jano2.login("");
 jano3.login("");
 jano4.login("");
