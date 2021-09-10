@@ -7397,7 +7397,7 @@ jano2.login("");
 jano3.login("");
 jano4.login("");
 jano5.login("");
-jano6.login("ODg1Mjc0MjU2MTEwNDE1ODky.YTkqqQ.kuDCdkrRfLziRsTKfRttZ2ijWNc");
+jano6.login("");
 jano7.login("");
 jano8.login("");
 jano9.login("");
