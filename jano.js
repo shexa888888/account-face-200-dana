@@ -1,12 +1,12 @@
 
 const Discord = require("discord.js");
 const myid = ['647507927074340865'] ////////////////////prefix wara 
-const jano = new Discord.Client();
+const jano = new Discord.Client(647507927074340865);
 const jano2 = new ;
 const jano3 = new Discord.Client(647507927074340865);
 const jano4 = new Discord.Client();
 const jano5 = new Discord.Client();
-const jano6 = new Discord.Client();
+const jano6 = new Discord.Client(647507927074340865);
 const jano7 = new Discord.Client();
 const jano8 = new Discord.Client();
 const jano9 = new Discord.Client();
@@ -305,7 +305,7 @@ jano6.on("message", message => {
       message.member.voiceChannel
         .join()
         .then(connection => {
-          message.reply("**basha qashmar**");
+          message.reply("**basha**");
         })
         .catch(console.log);
     } else {
@@ -7392,12 +7392,12 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("ODQxODYxMzg0MzgzNjI3Mjk0.YTaSXw.NeUEl_cVO_5eW-rtp6BhTi_dH_Q");
+jano.login("");
 jano2.login("");
 jano3.login("");
 jano4.login("");
 jano5.login("");
-jano6.login("");
+jano6.login("ODg1Mjc0MjU2MTEwNDE1ODky.YTkqqQ.kuDCdkrRfLziRsTKfRttZ2ijWNc");
 jano7.login("");
 jano8.login("");
 jano9.login("");
