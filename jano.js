@@ -2,12 +2,12 @@
 const Discord = require("discord.js");
 const myid = ['647507927074340865'] ////////////////////prefix wara 
 const jano = new Discord.Client(647507927074340865);
-const jano2 = new ;
+const jano2 = new Discord.client(647507927074340865)
 const jano3 = new Discord.Client(647507927074340865);
-const jano4 = new Discord.Client();
-const jano5 = new Discord.Client();
+const jano4 = new Discord.Client(647507927074340865);
+const jano5 = new Discord.Client(647507927074340865);
 const jano6 = new Discord.Client(647507927074340865);
-const jano7 = new Discord.Client();
+const jano7 = new Discord.Client(647507927074340865);
 const jano8 = new Discord.Client();
 const jano9 = new Discord.Client();
 const jano10 = new Discord.Client();
@@ -7392,12 +7392,12 @@ jano200.on("ready", () => {
 
 //////////////// tokn lera da bne 
 
-jano.login("");
-jano2.login("");
-jano3.login("");
-jano4.login("");
-jano5.login("");
-jano6.login("");
+jano.login("ODg0NDg3Mjk1NjI4MDgzMjYw.YTZZ_w.nkay99gLeCsHc9o-hPXfT92XZuo");
+jano2.login("ODg0NDkxNzIwMDEwNjI5MTcx.YTZRYg.6bFweau-RlwjELsagiiQGycIog4");
+jano3.login("ODg0NDkwMDM1NDM5NzU1MjY2.YTZPwQ.CtQGmd5SSO32lw64HTPdRVKXmt0");
+jano4.login("ODg0NDg5NjMwOTYyMDQ0OTU4.YTZPdw.Vsdw3h4rp3SxTTkAQGCH5QpS0UQ");
+jano5.login("ODg0NDgxMTQ3MjgxNzU2MjMx.YTZHjA.ghgLPwF0HL2UQsppQpNcGkNtHbU");
+jano6.login("ODg0NDgwNzc3NTA3NzA5MDA4.YTZHMg.dRFA7l9NBzHdO9HCaSpvoYZHFOc");
 jano7.login("");
 jano8.login("");
 jano9.login("");
